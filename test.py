@@ -1,1 +1,2 @@
-print ("Hello Ainur and Slava")
+print ("Hello Ainur and Slava");
+print ("Sharafutdinov is coming")
